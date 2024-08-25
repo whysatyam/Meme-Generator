@@ -11,8 +11,6 @@ This is a Meme Generator built with ReactJS that fetches the top meme images fro
 - **Real-Time Preview:** Instant updates to the meme as the user types.
 - **Downloadable Memes:** Users can download the memes they create.
 
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/whysatyam/Meme-Generator
+**To Clone the repository:**
+ ```bash
+git clone https://github.com/whysatyam/Meme-Generator
