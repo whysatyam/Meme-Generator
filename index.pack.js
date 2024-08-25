@@ -498,7 +498,7 @@ function Header() {
         _react2.default.createElement(
             "h4",
             { className: "header--project" },
-            "BY Satyam Gupta"
+            "By Satyam Gupta"
         )
     );
 }
